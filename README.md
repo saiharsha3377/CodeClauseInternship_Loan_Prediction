@@ -9,6 +9,7 @@ In this they have given with 2 normally allocated projects and 2 golden projects
 In this we can see that the Loan Prediction by the taken dataset and with the
 
 Accuracy: 90.80%
+
 Precision: 94.40%
 
 It was the one of the challenging task from these 4 projects.
